@@ -22,7 +22,7 @@ ___
 <!-- Inline Code Block -->
 `<p>This is a paragraph</p>`
 
-![Markdown Logo](https://markdown-here.com/img/icon256.png)
+![Markdown Logo](https://lh3.googleusercontent.com/proxy/b_-aVIQH1hFLind4nNp2cyubI201b7HqP8DwUqbMUsIa1wMkJMj_beVob855qfx2zTkrIycFkMxeGSD4W4tAgh438hCsiYsUXVRPOLuciw1SnRPjwwerogdVWcp_d3rY)
 
 ```bash
   npm install
